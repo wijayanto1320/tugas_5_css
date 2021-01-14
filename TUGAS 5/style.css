@@ -1,0 +1,17 @@
+header{
+  background: black;
+}
+header a{
+  color: white;
+  text-decoration: none;
+  font-size: 25px;
+}
+.slider{
+  width: 600px;
+  height: 400px;
+}
+footer{
+  text-align: center;
+  background: black;
+  color:white;
+}
